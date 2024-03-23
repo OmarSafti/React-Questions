@@ -1,8 +1,11 @@
-# React + Vite
+# AI Questions Generator
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Generate Questions about The Topic You Enter
 
-Currently, two official plugins are available:
+Technologies Used: Chakra UI, React, Gemini API
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+What were the desired out comes of the project?
+
+- Understand React Hooks
+- Learn a UI framework from the documentation
+- Use API with React
